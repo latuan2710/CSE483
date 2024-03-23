@@ -8,8 +8,8 @@
         <version>3.2.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>CSE453_Lab7_Product_Service</groupId>
-    <artifactId>CSE453_Lab7_Product_Service</artifactId>
+    <groupId>CSE483_Lab7_Product_Service</groupId>
+    <artifactId>CSE483_Lab7_Product_Service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>cse483</name>
     <description>cse483</description>
